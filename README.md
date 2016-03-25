@@ -1,2 +1,4 @@
 # hello-world
-initail hello world repository
+hello world repository
+
+Modifying the README file.
